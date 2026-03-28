@@ -8,14 +8,14 @@ AI 코딩 에이전트를 위한 스킬 모음.
 
 ```bash
 # 전체 스킬 설치
-npx skills add {username}/mins-skills
+npx skills add Kminss/mins-skills
 
 # 특정 스킬만 설치
-npx skills add {username}/mins-skills --skill project-harness-generator
+npx skills add Kminss/mins-skills --skill project-harness-generator
 
 # 특정 에이전트에만 설치
-npx skills add {username}/mins-skills --skill project-harness-generator -a claude-code
-npx skills add {username}/mins-skills --skill project-harness-generator -a codex
+npx skills add Kminss/mins-skills --skill project-harness-generator -a claude-code
+npx skills add Kminss/mins-skills --skill project-harness-generator -a codex
 ```
 
 ## 스킬 목록
